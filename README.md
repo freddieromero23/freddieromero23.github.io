@@ -2,4 +2,5 @@
 
 ## _Under Construction_
 
-[Go to Professional Development Page](ProDevDoc.html)
+<a href="https://freddieromero23.github.io/ProDevDoc.html" target="_blank">Go to Professional Development Page</a>
+
